@@ -1,2 +1,1 @@
-# GenAI_Course
-# GenAI_Course
+# GenAI Course Projects
